@@ -202,3 +202,29 @@ nav ul {
   background-color: white;
   transition: 0.3s;
 }
+.project-card img {
+  height: 200px;
+}
+
+/* Contact Me */
+
+#contact {
+  background-color: #e9ecef;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+#contact h3 {
+  font-size: 4rem;
+  padding: 3rem 1rem;
+}
+
+#contact p {
+  padding: 0 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+#contact a {
+  color: blue;
+}
